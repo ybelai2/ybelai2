@@ -28,5 +28,5 @@ Full-stack developer working in React, Spring Boot, and Node.js. CS senior at To
 &rarr; [Live demo](#) <!-- add your Render URL -->
 
 ### Reach me
-- LinkedIn: <!-- add your LinkedIn URL -->
-- Email: <!-- add your email -->
+- LinkedIn: [<!-- add your LinkedIn URL -->](https://www.linkedin.com/in/yohannesbelai/)
+- Email: Yohannesbelai4@gmail.com
