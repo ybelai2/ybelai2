@@ -1,4 +1,4 @@
-********# Yohannes Belai
+Yohannes Belai
 
 Full-stack developer working in React, Spring Boot, and Node.js. CS senior at Towson University (May 2027), currently building asynchronous data pipelines on AWS as a contract software developer.
 
