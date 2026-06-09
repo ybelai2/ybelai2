@@ -30,7 +30,7 @@ Full-stack developer working in React, Spring Boot, and Node.js. CS senior at To
 &rarr; [Live demo](https://syllabi-xtract.vercel.app)
 
 **Campus Events** — REST API powering a campus events platform. Sole backend developer: Node.js, Express, MongoDB, deployed on Render.
-&rarr; [Live demo](#) <!-- add your Render URL -->
+&rarr; [Live demo](https://campus-events-rose.vercel.app/) <!-- add your Render URL -->
 
 ### Reach me
 - LinkedIn: https://www.linkedin.com/in/yohannesbelai/
