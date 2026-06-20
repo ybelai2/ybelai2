@@ -31,7 +31,7 @@ Full-stack developer working in React, Spring Boot, and Node.js. CS senior at To
 &rarr; [Live demo](https://campus-events-rose.vercel.app/) <!-- add your Render URL -->
 
 **OS439 Drill** — AI-generated study sets from lecture slides. Upload a `.pptx`, get auto-generated flashcards and quiz questions via the Gemini API. React + Vite frontend, Spring Boot backend.
-&rarr; [Live demo](https://os439-frontend.vercel.app) <!-- confirm exact deployed URL -->
+&rarr; [Live demo](https://study-cs.vercel.app/) <!-- confirm exact deployed URL -->
 
 ### Reach me
 - LinkedIn: https://www.linkedin.com/in/yohannesbelai/
